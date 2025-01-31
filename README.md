@@ -32,7 +32,7 @@ Current looking for my first job opportunity where I can apply my knowledge and 
 Currently, I am focused on deepening my knowledge in **React** and best practices in modern web development.
 
 ## 📊 GitHub Stats
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sussego&show_icons=true&theme=dark)
 
 ## 📫 Let's Connect!
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sussego)
