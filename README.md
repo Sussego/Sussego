@@ -19,7 +19,7 @@ Current looking for my first job opportunity where I can apply my knowledge and 
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 🔭 What I'm Working On
-Currently, I am focused on deepening my knowledge in **React** and best practices in modern web development.
+I am currently focused on deepening my knowledge and studying best practices in modern development.
 
 ## 📊 GitHub Stats
 ![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sussego&show_icons=true&theme=dark)
