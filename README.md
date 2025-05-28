@@ -5,7 +5,7 @@ Hello! I'm Eduardo Paulino, a Computer Science student in my final semester at t
 
 Worked for a year as an intern using FlutterFlow, where I gained experience in Web development. During my time at university, I also took part in a community development project, contributing to real-world solutions and improving knowledge in **databases**, **web development**.
 
-Current looking for my first job opportunity where I can apply my knowledge and continue to grow as a developer.
+Current looking for a job opportunity where I can apply my knowledge and continue to grow as a developer.
 
 ## 🚀 Skills & Technologies
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
