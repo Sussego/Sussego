@@ -1,21 +1,29 @@
 # Hi, I'm Eduardo Petenasi!
 
 ## 👨‍💻 About Me
-Hello! I'm Eduardo Paulino, a Computer Science student in my final semester at the Universidade Estadual do Norte do Paraná. I have experience in web development and always look for opportunities to improve my skills.
+Hello! I'm Eduardo Paulino, a Computer Science graduate from the Universidade Estadual do Norte do Paraná. I have experience in web development and I’m always looking for opportunities to improve my skills.
+
 
 ## 🚀 Skills & Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+**Backend**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ## 🔭 What I'm Working On
-I am currently focused on deepening my knowledge and studying best practices in modern development.
+- Mastering **Laravel** best practices for scalable backend systems.  
+- Improving my skills with **React** for dynamic and responsive UIs.  
+- Exploring **DevOps practices** (Docker, CI/CD) to enhance deployment workflows.  
+
 
 ## 📊 GitHub Stats
 ![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sussego&show_icons=true&theme=dark)
